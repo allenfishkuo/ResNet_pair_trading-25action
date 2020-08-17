@@ -1,0 +1,2 @@
+stock1,stock2,model_type,w1,w2,pval,snr,zcr,mu,stdev,skewness,profit_without_cost,profit_tax1,profit_tax2,open number,return,std1,skew1,timetrend,pos,int_w1,int_w2,done,StrategyOpenTime,StrategyCloseTime,Open_price,Open_pos,Close_price
+2324,2454,model3,0.8181349990720944,0.1818650009279055,0.09015680452292021,0.2578494006943223,0.06446666666666656,3.556386116304149,0.0015934111513343098,-0.3811352946601895,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
